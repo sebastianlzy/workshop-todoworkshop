@@ -210,4 +210,5 @@ OTHERS
 
 SURVEY
 =================
+Thanks for attending the workshop. Please help me to fill in this survey form 
 [https://goo.gl/](https://sebastian15.typeform.com/to/nCtfBY "Survey")
